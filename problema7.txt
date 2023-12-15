@@ -1,0 +1,12 @@
+ El numero 3 no es divisible entre 7
+El factorial es 6.08282e+62
+El factorial es 6.08282e+62
+El numero 4 no es divisible entre 7
+El factorial es 6.08282e+62
+El factorial es 6.08282e+62
+El numero 2 no es divisible entre 7
+El factorial es 6.08282e+62
+El numero 1 no es divisible entre 7
+El numero 9 no es divisible entre 7
+El factorial es 6.08282e+62
+El factorial es 6.08282e+62

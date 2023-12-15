@@ -1,0 +1,2 @@
+Modelo: 1, Kilometraje: 1, Estado: El taxi necesita atención mecánica
+Modelo: 2, Kilometraje: 3, Estado: El taxi necesita atención mecánica

@@ -1,0 +1,20 @@
+Área: NaN
+Figura: 
+Área: 201.06
+Figura: circulo
+Área: NaN
+Figura: 
+Área: 25.00
+Figura: cuadrado
+Área: NaN
+Figura: 
+Área: 201.06
+Figura: circulo
+Área: 275.00
+Figura: rectangulo
+Área: NaN
+Figura: 
+Área: 36.00
+Figura: cuadrado
+Área: NaN
+Figura: 

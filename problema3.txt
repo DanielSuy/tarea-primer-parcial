@@ -1,0 +1,3 @@
+Intento registrado con éxito. Palabra: problema3, Vocales: 3
+Intento registrado con éxito. Palabra: laa, Vocales: 2
+Intento registrado con éxito. Palabra: paz, Vocales: 1

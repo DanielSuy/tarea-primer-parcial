@@ -1,0 +1,1 @@
+Modelo: 20, Kilometraje: 40, Estado: El taxi necesita atención mecánica

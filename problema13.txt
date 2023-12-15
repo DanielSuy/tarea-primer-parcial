@@ -1,0 +1,6 @@
+Notas: [2, 3, 4] | Promedio: 3.00 | Resultado: Reprobado
+Notas: [5, 5, 5] | Promedio: 5.00 | Resultado: Reprobado
+Notas: [40, 58, 70] | Promedio: 56.00 | Resultado: Reprobado
+Notas: [100, 100, 100] | Promedio: 100.00 | Resultado: Aprobado
+Notas: [40, 30, 20] | Promedio: 30.00 | Resultado: Reprobado
+Notas: [44, 44, 80] | Promedio: 56.00 | Resultado: Reprobado

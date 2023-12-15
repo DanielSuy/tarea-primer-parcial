@@ -1,0 +1,3 @@
+Año: 2 - Resultado: No bisiesto
+Año: 2000 - Resultado: Bisiesto
+Año: 8 - Resultado: Bisiesto

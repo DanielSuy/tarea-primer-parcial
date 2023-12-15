@@ -1,0 +1,6 @@
+Intento registrado con éxito. Divisores: 1 3 , Número: 3.00
+Intento registrado con éxito. Divisores: 1 , Número: 1.00
+Intento registrado con éxito. Divisores: 1 11 , Número: 11.00
+Intento registrado con éxito. Divisores: 1 3 37 111 , Número: 111.00
+Intento registrado con éxito. Divisores: 1 11 , Número: 11.00
+Intento registrado con éxito. Divisores: 1 2 4 , Número: 4.00

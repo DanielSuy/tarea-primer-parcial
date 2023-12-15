@@ -1,0 +1,3 @@
+Opción: 1
+Intento registrado con éxito. Triángulo: Equilátero
+----------------------------------------

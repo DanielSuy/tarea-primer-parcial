@@ -1,0 +1,24 @@
+Palabra: hola
+A=1
+E=0
+I=0
+O=1
+U=0
+Palabra: loooo
+A=0
+E=0
+I=0
+O=4
+U=0
+Palabra: 5
+A=0
+E=0
+I=0
+O=0
+U=0
+Palabra: poooo
+A=0
+E=0
+I=0
+O=4
+U=0

@@ -1,0 +1,12 @@
+Inicio: 5
+Fin: 66
+Numeros: 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 63 65 
+Inicio: 2
+Fin: 2
+Numeros: 2 
+Inicio: 1
+Fin: 2
+Numeros: 1 
+Inicio: 4
+Fin: 9
+Numeros: 4 6 8 

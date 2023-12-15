@@ -1,0 +1,2 @@
+Intento registrado con éxito. Número: 3, Suma: 6
+Intento registrado con éxito. Número: 55, Suma: 1540

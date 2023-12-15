@@ -1,0 +1,28 @@
+Opción: 1
+Intento registrado con éxito. Triángulo: Isósceles
+----------------------------------------
+Opción: 2
+Historial de cálculos:
+Lados: 3, 3, 4 - Tipo: Isósceles
+----------------------------------------
+Opción: 2
+Historial de cálculos:
+Lados: 3, 3, 4 - Tipo: Isósceles
+----------------------------------------
+Opción: 2
+Historial de cálculos:
+----------------------------------------
+Opción: 1
+Intento registrado con éxito. Triángulo: Equilátero
+----------------------------------------
+Opción: 2
+Historial de cálculos:
+Lados: 2, 2, 2 - Tipo: Equilátero
+----------------------------------------
+Opción: 1
+Intento registrado con éxito. Triángulo: Equilátero
+----------------------------------------
+Opción: 2
+Historial de cálculos:
+Lados: 3, 3, 3 - Tipo: Equilátero
+----------------------------------------

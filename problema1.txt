@@ -1,0 +1,5 @@
+Intento registrado con éxito. Mayor: 1, Resultado: 1
+Intento registrado con éxito. Mayor: 2, Resultado: 2
+Intento registrado con éxito. Mayor: 6, Resultado: 246
+Intento registrado con éxito. Mayor: 7, Resultado: 157
+Intento registrado con éxito. Mayor: 4, Resultado: 4

@@ -1,0 +1,27 @@
+Numero1: 6
+Numero2: 1
+Numeros: 6 5 4 3 2 1 
+Numero1: 2
+Numero2: 3
+Numeros: 3 2 
+Numero1: 5
+Numero2: 5
+Numeros: 5 
+Numero1: 4
+Numero2: 4
+Numeros: 4 
+Numero1: 4
+Numero2: 4
+Numeros: 4 
+Numero1: 1
+Numero2: 5
+Numeros: 5 4 3 2 1 
+Numero1: 7
+Numero2: 7
+Numeros: 7 
+Numero1: 1
+Numero2: 9
+Numeros: 9 8 7 6 5 4 3 2 1 
+Numero1: 1
+Numero2: 1
+Numeros: 1 
